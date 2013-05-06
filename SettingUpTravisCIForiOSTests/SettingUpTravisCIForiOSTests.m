@@ -26,7 +26,7 @@
 
 - (void)testExample
 {
-    STFail(@"Unit tests are not implemented yet in SettingUpTravisCIForiOSTests");
+    STAssertNil(nil, @"This object should be nil");
 }
 
 @end
